@@ -1,2 +1,4 @@
-edu\escuelaing\arep\HttpServer\Server.class
 edu\escuelaing\arep\App.class
+edu\escuelaing\arep\writer\WriterServer.class
+edu\escuelaing\arep\connection\HttpConnection.class
+edu\escuelaing\arep\HttpServer\Server.class
